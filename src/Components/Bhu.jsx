@@ -3,7 +3,7 @@ import React from "react";
 import Menu from "./Menu";
 
 
-const Bhu = () => {
+const Eresources = () => {
 return (
     <>
     <Menu/>
@@ -14,4 +14,4 @@ return (
 
 }
 
-export default Bhu;
+export default Eresources;
